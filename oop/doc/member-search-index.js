@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.my.asia","c":"Korea","l":"capital"},{"p":"com.my.asia","c":"Korea","l":"Korea()","url":"%3Cinit%3E()"},{"p":"com.my.asia","c":"Korea","l":"print()"}]
