@@ -6,7 +6,7 @@ public class Customer {
 	private String id; // 멤버변수는 외부에 노출되지 않도록 Private으로
 	private String pwd;
 	private String name;
-	private boolean flag; // 쿠폰사용여부
+	private boolean flag; // 결혼여부
 
 	public void setId(String id) {// setter 메서드
 		this.id = id;
